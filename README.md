@@ -1,1 +1,2 @@
 # Simple-Html-Project
+This is a simple html project that I completed for one of my classes. The file lab0.html is a page that contains 8 images and each image is a linked. The first 5 images are linked to 5 of my favorite websties. The 6th is linked to my lab0a which contains a short description about myself, a list of the classes I took the previous year, and a google form for google searches. The 7th link is lab0b which is a simple practice for html using divs, and the last link is to send me emails.
